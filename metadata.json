@@ -1,0 +1,7 @@
+{
+  "name": "Diamond Engineering & Architect",
+  "description": "Professional engineering and architectural consultancy services in Bangladesh. Features include architectural design, structural engineering, Rajuk approvals, and project management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
